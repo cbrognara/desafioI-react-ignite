@@ -55,7 +55,7 @@ export function TaskList() {
             <FiCheckSquare size={16} color="#fff"/>
           </button>
         </div>
-      </header>git
+      </header>
 
       <main>
         <ul>
